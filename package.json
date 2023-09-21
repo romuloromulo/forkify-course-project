@@ -13,6 +13,7 @@
     "core-js": "^3.26.1",
     "fractional": "^1.0.0",
     "parcel": "^2.8.0",
+    "react-icons": "^4.8.0",
     "regenerator-runtime": "^0.13.11",
     "start": "^5.1.0"
   },
